@@ -1000,7 +1000,7 @@ int getMultiplication(int x, int y, int z) {
 }
 ```
 **Order Matters**: Declare (or define) **before** calling—compiler checks top-to-bottom. Call after ensures no errors.    
-
+![Function Lifecycle](https://github.com/Coddiction-101/cpp-essentials.co/blob/main/Diagrams/Function%20Lifecycle.png)
   
 
 Functions use **camelCase** for names (e.g., `getMultiplication`)—search "camel case" for convention.  
