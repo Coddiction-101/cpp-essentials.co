@@ -1650,8 +1650,7 @@ Pointers are variables that store **memory addresses** (not data values). Like `
 **Creation and Initialization:**
 1. `int num = 50;` → Allocates `num` at address 104 (stack).
 2. `int* ptr = &num;` → `&` (address-of operator) gets 104; `ptr` stores it.   
-
-  
+![](https://github.com/Coddiction-101/cpp-essentials.co/blob/main/Diagrams/maxresdefault.jpg)
 
 **Key Operators:**
 - `&var`: Address of `var`.
