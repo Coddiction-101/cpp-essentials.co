@@ -488,7 +488,7 @@ Loops repeat code efficiently for repeated tasks (e.g., print "Babbar" 1000 time
 3. Execute body.
 4. Update.
 5. Repeat 2-4.
-
+![]()
   
 
 **Examples**:
