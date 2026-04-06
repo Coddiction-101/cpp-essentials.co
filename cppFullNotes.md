@@ -1332,7 +1332,7 @@ Manual null insertion is possible: `arr[2] = '\0';`. Without it, `cout << arr;` 
 | Traversal | Manual loop always needed | Direct `cout` or loop   |
 
 Null character (`\0`) marks **string termination**, preventing buffer overflow reads.   
-
+![Character Array Printing Behavior](https://github.com/Coddiction-101/cpp-essentials.co/blob/main/Diagrams/Character%20Array%20Printing%20Behavior.png)
   
 
 Loop traversal mirrors integer arrays: `for(int i=0; i<5; i++) cout << arr[i] << " ";`.  
