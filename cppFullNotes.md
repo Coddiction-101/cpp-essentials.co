@@ -823,7 +823,7 @@ int decimalToBinaryBitwise(int n) {
 ```
 Both methods yield same result (e.g., 23→10111, 17→10001). Bitwise is faster as CPU natively handles bits.    
 
-     
+![Decimal Vs Binary](https://github.com/Coddiction-101/cpp-essentials.co/blob/main/Diagrams/Decimal%20to%20Binary%20Process.png)
 
 ## Binary to Decimal Conversion
 
