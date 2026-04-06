@@ -434,7 +434,7 @@ switch (grade) {
 3. Without `break`, it continues to 'B', 'C', etc. (fall-through).        
 
 Example output (with breaks): Input 'A' → "90 to 100"; 'G' → "0 to 60".   
-
+![Switch Execution Flow](https://github.com/Coddiction-101/cpp-essentials.co/blob/main/Diagrams/Switch%20Execution%20Flow.png)
   
 
 Switch checks cases sequentially until match or default.  
