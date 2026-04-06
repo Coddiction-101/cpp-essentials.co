@@ -1060,7 +1060,7 @@ Arrays store **multiple same-type values** efficiently—instead of 10,000 varia
 
 **Why Arrays?** Solves variable explosion: 2→3→4→400→1Lakh vars → one array line.   
 
-  
+  ![Array Core Concepts](https://github.com/Coddiction-101/cpp-essentials.co/blob/main/Diagrams/Array%20Core%20Concepts.png)
 
 **Declaration**: `int arr[5];`—allocates 5 int blocks (size **must** specify unless initialized).   
 **Initialization** (Definition): `int arr[5] = {10,20,30};`—first 3 set, rest garbage. Overflow (6 vals in size-5)? Error.    
