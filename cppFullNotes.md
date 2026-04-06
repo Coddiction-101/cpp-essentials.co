@@ -14,7 +14,7 @@ Major companies like Adobe use C++ extensively today.
 ## Compilation Process
 
 **Compilation** translates human-readable source code (e.g., C++) into machine code (binary) via a **compiler**. Why? Computers don't understand C++ directly.     
-
+![Compilation Process](https://github.com/Coddiction-101/cpp-essentials.co/blob/main/Diagrams/C%2B%2B%20Compilation%20Process.png)
   
 
 The process creates an **executable file** (.exe on Windows), which runs when double-clicked (e.g., a game like Temple Run compiled from C++ source). Four phases exist (pre-processing, compilation, assembly, linking), but details are advanced.       
