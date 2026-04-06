@@ -771,7 +771,7 @@ Binary is essential because computers (CPU and memory) operate exclusively in bi
 | 3                | 3       | 11     |
 | 4                | 4       | 100    |  
 
-  
+![Binary Vs Decimal](https://github.com/Coddiction-101/cpp-essentials.co/blob/main/Diagrams/Binary%20vs%20Decimal.png)
 
 ## Decimal to Binary Conversion
 
