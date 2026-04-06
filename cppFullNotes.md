@@ -488,7 +488,7 @@ Loops repeat code efficiently for repeated tasks (e.g., print "Babbar" 1000 time
 3. Execute body.
 4. Update.
 5. Repeat 2-4.
-![]()
+![For Loop Execution](https://github.com/Coddiction-101/cpp-essentials.co/blob/main/Diagrams/For%20Loop%20Execution.png)
   
 
 **Examples**:
