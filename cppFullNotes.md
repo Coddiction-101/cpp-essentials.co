@@ -1599,7 +1599,7 @@ Examples:
 **When to Use**:
 - **Value**: No changes needed (safe, isolated).
 - **Reference**: Sustain changes in caller (efficient for large data like arrays/strings).       
-
+![Pass by Value and Reference](https://github.com/Coddiction-101/cpp-essentials.co/blob/main/Diagrams/Pass%20by%20Value%20vs%20Reference.png)
   
 
 **Practical**: For array `arr[] = {1,2,3,4,5}` and `count=0`, pass `count` by reference to `countEvenNumbers` to update caller's `count`.   
