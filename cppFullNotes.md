@@ -887,7 +887,7 @@ float result = num1 + (int)num2;  // (int)num2 truncates 5.5 → 5
 - Now `10 + 5 = 15` (int result).
 - Stored in float: `15.0` (precision lost forever).           
 
-  
+![Explicit Type Conversion (Casting)](https://github.com/Coddiction-101/cpp-essentials.co/blob/main/Diagrams/Decimal%20to%20Binary%20Process.png)
 
 **Why truncation?** Lower-precision types (int, char) discard decimals; no rounding—always floor toward zero.   
 
