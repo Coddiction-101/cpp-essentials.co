@@ -730,7 +730,7 @@ cout << a % b << endl;  // 0 (remainder)
 
 Type casting (int-to-float etc.) covered in separate article—converts data types for correct results.    
 
-  
+![Arithmetic Operator Flow](https://github.com/Coddiction-101/cpp-essentials.co/blob/main/Diagrams/Arithmetic%20Operator%20Flow.png)
 
 ## Relational Operators
 
